@@ -1,1 +1,1 @@
-[a link()[]](https://something.com)
+[a link[](fail)](this.html)
